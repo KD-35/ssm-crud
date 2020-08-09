@@ -1,0 +1,13 @@
+.table {
+    margin-top: 10px;
+}
+th,td{
+    text-align: center;
+}
+#page_info{
+    font-size: 18px;
+}
+
+#close_model {
+    height: 25px;
+}
